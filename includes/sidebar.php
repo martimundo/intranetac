@@ -29,11 +29,11 @@
           <li class="active">
             <a href="menus.html">
               <img src="dist/img/icons/cardapio.png" alt="Cardapio" srcset="">
-              <spa>Cardápio</spa>
+              <spa>Cozinha</spa>
             </a>
           </li>
           <li>
-            <a href="reservations.html">
+            <a href="recepcao.php">
               <img src="dist/img/icons/reclamar.png" alt="Recepção" srcset="">
               <span>Recepção</span>
             </a>
@@ -45,7 +45,7 @@
             </a>
           </li>
           <li>
-            <a href="users.html">
+            <a href="users.php">
               <img src="dist/img/icons/grupos.png" alt="Acesso SGQ">
               <span>Usuários</span>
             </a>
